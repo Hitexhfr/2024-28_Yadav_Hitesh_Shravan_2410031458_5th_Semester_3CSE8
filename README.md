@@ -17,7 +17,7 @@ Section: 3CSE8
 Batch: 2024–2028  
 IILM University, Greater Noida
 
-**Internship Duration:** 16 June 2026 – 20 June 2026
+**Internship Duration:** 15 May - 15 June
 
 ---
 
